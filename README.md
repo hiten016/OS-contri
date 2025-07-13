@@ -32,14 +32,3 @@
 
 ---
 
-## :handshake: Our Contributors
-
-<a href="https://github.com/Shubhamrawat5/open-source-contribution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shubhamrawat5/open-source-contribution" />
-</a>
-
-<h2 align="center">
-    <p>
-        Thank You
-    </p>
-</h2>
